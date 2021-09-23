@@ -215,7 +215,6 @@ eig,_ = np.linalg.eig(spectral)
 print (np.max(eig))
 
 
-# In[ ]:
 
 
 
